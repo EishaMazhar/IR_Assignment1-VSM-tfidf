@@ -1,0 +1,1 @@
+Please paste all the speech files in the 'Speeches' folder, before running the code.
